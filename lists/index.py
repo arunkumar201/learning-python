@@ -38,7 +38,7 @@ print(my_list3[-3])  # 1.0 -gives the third last element the list
 
 # print(my_list3[-4])  # IndexError: list index out of range
 
-# 2. we can use slicing for accessing the elements from the list
+# 2. we can use slicing for accessing the elements from the list  ==
 
 print(my_list3[0:2])  # [1.0, 'Jessa'] -gives the first two elements from the list
 

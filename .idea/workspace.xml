@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d88a8d2-505d-42ec-9a50-2c317fe67e39" name="Changes" comment="loops started">
+      <change afterPath="$PROJECT_DIR$/functions/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/intro.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists/Iterating.py" beforeDir="false" afterPath="$PROJECT_DIR$/lists/Iterating.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/First.py" beforeDir="false" afterPath="$PROJECT_DIR$/First.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lists/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/lists/index.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,10 +48,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.First.executor": "Run",
     "Python.Intro.executor": "Run",
     "Python.Iterating.executor": "Run",
     "Python.Lists.executor": "Run",
     "Python.creation.executor": "Run",
+    "Python.index (1).executor": "Run",
     "Python.index.executor": "Run",
     "Python.intro.executor": "Run",
     "Python.looping.executor": "Run",
@@ -59,7 +64,7 @@
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/Arunkumar/python-learning",
     "run.code.analysis.last.selected.profile": "aDefault",
-    "settings.editor.selected.configurable": "copyright"
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Python"
   }
 }]]></component>
   <component name="RunAnythingCache">
@@ -82,6 +87,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lists.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="index (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learning-python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/index.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,13 +185,15 @@
     </configuration>
     <list>
       <item itemvalue="Python.Intro" />
-      <item itemvalue="Python.index" />
+      <item itemvalue="Python.index (1)" />
       <item itemvalue="Python.Lists" />
+      <item itemvalue="Python.index" />
       <item itemvalue="Python.looping" />
       <item itemvalue="Python.python First.py" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.index (1)" />
         <item itemvalue="Python.index" />
         <item itemvalue="Python.Lists" />
         <item itemvalue="Python.looping" />
